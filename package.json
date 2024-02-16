@@ -1,0 +1,9 @@
+{
+  "name": "collab_space",
+  "version": "1.0.0",
+  "description": "Project collaboration platform",
+  "main": "index.js",
+  "repository": "https://github.com/Fi44er/CollabSpace.git",
+  "author": "Fi44er <vaceslavmalugin81@gmail.com>",
+  "license": "MIT"
+}
